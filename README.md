@@ -1,3 +1,3 @@
 # Telecom Retention
 A Project on CHURN PREDICTION of a telecom company
-using data Science to address customer churn
+using Data Science to address customer churn
